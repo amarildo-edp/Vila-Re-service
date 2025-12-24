@@ -1,0 +1,8 @@
+
+{
+  "name": "Vila Ré Service - Plataforma de Serviços",
+  "description": "Uma plataforma robusta para conectar clientes e profissionais qualificados na Vila Ré e região, com sistema de leads, pagamentos e avaliações.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
